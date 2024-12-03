@@ -1,7 +1,18 @@
 {
   "Name": "",
   "R1weapon": "",
+  "R2weapon": "",
+  "R3weapon": "",
   "L1weapon": "",
+  "L2weapon": "",
+  "L3weapon": "",
+  "Spells": [],
+  "Rings": {
+    "Slot1": "",
+    "Slot2": "",
+    "Slot3": "",
+    "Slot4": ""
+  },
   "Helmet": "",
   "Body": "",
   "Gloves": "",
