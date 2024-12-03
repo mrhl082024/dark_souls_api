@@ -191,8 +191,132 @@
       "Luck": 10
     }
   },
-  "Sorcerer": {},
-  "Pyromancer": {},
-  "Cleric": {},
-  "Deprived": {}
+  "Sorcerer": {
+    "Name": "Sorcerer",
+    "R1weapon": "Mail Breaker",
+    "R2weapon": "Sorcerer's Staff",
+    "R3weapon": "",
+    "L1weapon": "Leather Shield",
+    "L2weapon": "",
+    "L3weapon": "",
+    "Spells": ["Soul Arrow", "Heavy Soul Arrow"],
+    "Rings": {
+      "Slot1": "Young Dragon Ring",
+      "Slot2": "",
+      "Slot3": "",
+      "Slot4": ""
+    },
+    "Helmet": "Sorcerer Hood",
+    "Body": "Sorcerer Robe",
+    "Gloves": "Sorcerer Gloves",
+    "Legs": "Sorcerer Trousers",
+    "AttributeStats": {
+      "Level": 6,
+      "Vigor": 9,
+      "Attunement": 16,
+      "Endurance": 9,
+      "Vitality": 7,
+      "strength": 7,
+      "Dexterity": 12,
+      "Intelligence": 16,
+      "Faith": 7,
+      "Luck": 12
+    }
+  },
+  "Pyromancer": {
+    "Name": "",
+    "R1weapon": "",
+    "R2weapon": "",
+    "R3weapon": "",
+    "L1weapon": "",
+    "L2weapon": "",
+    "L3weapon": "",
+    "Spells": [],
+    "Rings": {
+      "Slot1": "",
+      "Slot2": "",
+      "Slot3": "",
+      "Slot4": ""
+    },
+    "Helmet": "",
+    "Body": "",
+    "Gloves": "",
+    "Legs": "",
+    "AttributeStats": {
+      "Level": 0,
+      "Vigor": 0,
+      "Attunement": 0,
+      "Endurance": 0,
+      "Vitality": 0,
+      "strength": 0,
+      "Dexterity": 0,
+      "Intelligence": 0,
+      "Faith": 0,
+      "Luck": 0
+    }
+  },
+  "Cleric": {
+    "Name": "",
+    "R1weapon": "",
+    "R2weapon": "",
+    "R3weapon": "",
+    "L1weapon": "",
+    "L2weapon": "",
+    "L3weapon": "",
+    "Spells": [],
+    "Rings": {
+      "Slot1": "",
+      "Slot2": "",
+      "Slot3": "",
+      "Slot4": ""
+    },
+    "Helmet": "",
+    "Body": "",
+    "Gloves": "",
+    "Legs": "",
+    "AttributeStats": {
+      "Level": 0,
+      "Vigor": 0,
+      "Attunement": 0,
+      "Endurance": 0,
+      "Vitality": 0,
+      "strength": 0,
+      "Dexterity": 0,
+      "Intelligence": 0,
+      "Faith": 0,
+      "Luck": 0
+    }
+  },
+  "Deprived": {
+    "Name": "",
+    "R1weapon": "",
+    "R2weapon": "",
+    "R3weapon": "",
+    "L1weapon": "",
+    "L2weapon": "",
+    "L3weapon": "",
+    "Spells": [],
+    "Rings": {
+      "Slot1": "",
+      "Slot2": "",
+      "Slot3": "",
+      "Slot4": ""
+    },
+    "Helmet": "",
+    "Body": "",
+    "Gloves": "",
+    "Legs": "",
+    "AttributeStats": {
+      "Level": 0,
+      "Vigor": 0,
+      "Attunement": 0,
+      "Endurance": 0,
+      "Vitality": 0,
+      "strength": 0,
+      "Dexterity": 0,
+      "Intelligence": 0,
+      "Faith": 0,
+      "Luck": 0
+    }
+  }
 }
