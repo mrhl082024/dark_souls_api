@@ -1,3 +1,115 @@
 {
-  "name": "Knight"
+  "Knight": {
+    "Name": "Knight",
+    "R1weapon": "Long Sword",
+    "L1weapon": "Knight Shield",
+    "Helmet": "Knight Helm",
+    "Body": "Knight Armor",
+    "Gloves": "Knight Gauntlets",
+    "Legs": "Knight Leggings",
+    "AttributeStats": {
+      "Level": 9,
+      "Vigor": 12,
+      "Attunement": 10,
+      "Endurance": 11,
+      "Vitality": 15,
+      "strength": 13,
+      "Dexterity": 12,
+      "Intelligence": 9,
+      "Faith": 9,
+      "Luck": 7
+    }
+  },
+  "Mercenary": {
+    "Name": "Mercenary",
+    "R1weapon": "Sellsword Twinblades",
+    "L1weapon": "Wooden Shield",
+    "Helmet": "Sellsword Helm",
+    "Body": "Sellsword Armor",
+    "Gloves": "",
+    "Legs": "Sellsword Trousers",
+    "AttributeStats": {
+      "Level": 8,
+      "Vigor": 11,
+      "Attunement": 12,
+      "Endurance": 11,
+      "Vitality": 10,
+      "strength": 10,
+      "Dexterity": 16,
+      "Intelligence": 10,
+      "Faith": 8,
+      "Luck": 9
+    }
+  },
+  "warrior": {
+    "Name": "Warrior",
+    "R1weapon": "Battle Axe",
+    "L1weapon": "Round Shield",
+    "Helmet": "Northern Helm",
+    "Body": "Northern Armor",
+    "Gloves": "Northern Gloves",
+    "Legs": "Northern Trousers",
+    "AttributeStats": {
+      "Level": 7,
+      "Vigor": 14,
+      "Attunement": 6,
+      "Endurance": 12,
+      "Vitality": 11,
+      "strength": 16,
+      "Dexterity": 9,
+      "Intelligence": 8,
+      "Faith": 9,
+      "Luck": 11
+    }
+  },
+  "Herald": {
+    "Name": "Herald",
+    "R1weapon": "Spear",
+    "L1weapon": "Kite Shield",
+    "L2weapon": "Talisman",
+    "Helmet": "Herald Helm",
+    "Body": "Herald Armor",
+    "Gloves": "Herald Gloves",
+    "Legs": "Herald Trousers",
+    "Spells": ["Heal Aid"],
+    "AttributeStats": {
+      "Level": 9,
+      "Vigor": 12,
+      "Attunement": 10,
+      "Endurance": 9,
+      "Vitality": 12,
+      "strength": 12,
+      "Dexterity": 11,
+      "Intelligence": 8,
+      "Faith": 13,
+      "Luck": 11
+    }
+  },
+  "Thief": {
+    "Name": "Thief",
+    "R1weapon": "Bandit's Knife",
+    "L1weapon": "Iron Round Shield",
+    "R2weapon": "Short Bow",
+    "Helmet": "Thief Mask",
+    "Body": "Deserter Armor",
+    "Gloves": "",
+    "Legs": "Deserter Trousers",
+    "AttributeStats": {
+      "Level": 5,
+      "Vigor": 10,
+      "Attunement": 11,
+      "Endurance": 10,
+      "Vitality": 9,
+      "strength": 9,
+      "Dexterity": 13,
+      "Intelligence": 10,
+      "Faith": 8,
+      "Luck": 14
+    }
+  },
+  "Assassin": {},
+  "Sorcerer": {},
+  "Pyromancer": {},
+  "Cleric": {},
+  "Deprived": {}
 }

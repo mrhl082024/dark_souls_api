@@ -1,0 +1,21 @@
+{
+  "Name": "",
+  "R1weapon": "",
+  "L1weapon": "",
+  "Helmet": "",
+  "Body": "",
+  "Gloves": "",
+  "Legs": "",
+  "AttributeStats": {
+    "Level": 0,
+    "Vigor": 0,
+    "Attunement": 0,
+    "Endurance": 0,
+    "Vitality": 0,
+    "strength": 0,
+    "Dexterity": 0,
+    "Intelligence": 0,
+    "Faith": 0,
+    "Luck": 0
+  }
+}
