@@ -13,6 +13,10 @@ const startingClasses = JSON.parse(
   fs.readFileSync(path.join(__dirname, "json/starting_classes.json"), "utf-8")
 );
 
+const armorSets = JSON.parse(
+  fs.readFileSync(path.join(__dirname, "json/armor.json"), "utf-8")
+);
+
 app.get("/", (req, res) => {
   res.send("");
 });
@@ -20,6 +24,10 @@ app.get("/", (req, res) => {
 //GET Json files
 app.get("/startingClasses", (req, res) => {
   res.json(startingClasses);
+});
+
+app.get("/armor", (req, res) => {
+  res.json(armorSets);
 });
 
 app.listen(8000, () => {
