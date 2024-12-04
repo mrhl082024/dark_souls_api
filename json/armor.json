@@ -1,0 +1,62 @@
+{
+  "Knight_Armor_Set": {
+    "Helmet": "Knight Helm",
+    "Body": "Knight Armor",
+    "Gloves": "Knight Gauntlets",
+    "Legs": "Knight Leggings"
+  },
+  "Mercenary_Armor_Set": {
+    "Helmet": "Sellsword Helm",
+    "Body": "Sellsword Armor",
+    "Gloves": "",
+    "Legs": "Sellsword Trousers"
+  },
+  "Warrior_Armor_Set": {
+    "Helmet": "Northern Helm",
+    "Body": "Northern Armor",
+    "Gloves": "Northern Gloves",
+    "Legs": "Northern Trousers"
+  },
+  "Herald_Armor_Set": {
+    "Helmet": "Herald Helm",
+    "Body": "Herald Armor",
+    "Gloves": "Herald Gloves",
+    "Legs": "Herald Trousers"
+  },
+  "Thief_Armor_Set": {
+    "Helmet": "Thief Mask",
+    "Body": "Deserter Armor",
+    "Gloves": "",
+    "Legs": "Deserter Trousers"
+  },
+  "Assassin_Armor_Set": {
+    "Helmet": "Assassin Hood",
+    "Body": "Assassin Armor",
+    "Gloves": "Assassin Gloves",
+    "Legs": "Assassin Trousers"
+  },
+  "Sorcerer_Armor_Set": {
+    "Helmet": "Sorcerer Hood",
+    "Body": "Sorcerer Robe",
+    "Gloves": "Sorcerer Gloves",
+    "Legs": "Sorcerer Trousers"
+  },
+  "Pyromancer_Armor_Set": {
+    "Helmet": "Pyromancer Crown",
+    "Body": "Pyromancer Garb",
+    "Gloves": "Pyromancer Wrap",
+    "Legs": "Pyromancer Trousers"
+  },
+  "Cleric_Armor_Set": {
+    "Helmet": "",
+    "Body": "Cleric Blue Robe",
+    "Gloves": "Cleric Gloves",
+    "Legs": "Cleric Trousers"
+  },
+  "Deprived_Armor_Set": {
+    "Helmet": "",
+    "Body": "",
+    "Gloves": "",
+    "Legs": "Loincloth"
+  }
+}
